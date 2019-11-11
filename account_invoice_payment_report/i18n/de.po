@@ -33,5 +33,4 @@ msgstr "Rechnungen mit Zahlungen"
 #. module: account_invoice_payment_report
 #: model:ir.ui.view,arch_db:account_invoice_payment_report.report_invoice_document_with_payments
 msgid "Paid on"
-msgstr "Bezahlt auf"
-
+msgstr "Bezahlt am"

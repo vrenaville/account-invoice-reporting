@@ -33,5 +33,5 @@ msgstr "Factures avec paiements"
 #. module: account_invoice_payment_report
 #: model:ir.ui.view,arch_db:account_invoice_payment_report.report_invoice_document_with_payments
 msgid "Paid on"
-msgstr "Déjà payé au"
+msgstr "Payé le"
 
